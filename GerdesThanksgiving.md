@@ -13,7 +13,7 @@
 | Time |  |
 | :--- | :-- |
 | 7:30a | Drop Off Norbert<br /> 📍*1116 N College St*<br /> ☐ Kennel<br /> ☐ Food<br /> ☐ Leash<br /> |
-| 3p - 5p | Pick up Chipotle and Drive to EUG,📍*28801 Douglas Dr* <br /> Follow signs to Economy Parking |
+| 3p - 5p | Pick up Chipotle and Drive to EUG<br />📍*28801 Douglas Dr* <br /> Follow signs to Economy Parking |
 | 5p - 5:10p | walk to terminal | 
 | 5:10p - 5:20p | TSA |
 | 5:20p - 6:37 (1h17m) | Wait at Gate | 
