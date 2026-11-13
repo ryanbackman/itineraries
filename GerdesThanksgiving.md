@@ -1,11 +1,16 @@
-* [ ] Boarding Pass
-* [ ] Passports
-* [ ] Venture card
-* [ ] Driver's License
-* [ ] Emerald Club Confirmation 
+<style>
+  body, .markdown-preview {
+    font-size: 8pt !important;
+    line-height: 1.35 !important;
+  }
+  h1 { font-size: 11pt !important; }
+  h2 { font-size: 9.5pt !important; }
+  code, pre { font-size: 8pt !important; }
 
-**Allegiant Confirmation Number:** `E3I59V`<br />
-**National Confirmation Number:** `H-2137549136COUNT`
+</style>
+
+Allegiant Confirmation Number: **E3I59V**
+National Confirmation Number: **H-2137549136COUNT**
 
 ### Flight to AZA (Mesa Gateway Airport)
 **Date:** Monday, November 23, 2026
@@ -18,8 +23,8 @@
 | 5:10p - 5:20p | TSA |
 | 5:20p - 6:37 (1h17m) | Wait at Gate | 
 | 6:37p - 10:10p | Flight **#2313** to AZA <br /> 24A (window), 24B, 24C <br />carry on bag - Elli, Ryan | 
-| 10:10p - 10:30p | Pick rental car @ National Car Rental<br /> Across from Baggage Claim <br />**#2137549136** |
-| 10:30p - 1a | Drive to Tuscon <br /> 📍10550 E Glenn St |
+| 10:10p - 10:30p | Pick up rental car @ National Car Rental<br /> Across from Baggage Claim <br />**#2137549136** |
+| 10:30p - 1a | Drive to Tucson <br /> 📍10550 E Glenn St |
 
 ### Flight to EUG (Mahlon Sweet Field)
 **Date:** Sunday, November 29, 2026
@@ -35,8 +40,25 @@
 | 5:33p - 8p (2h + deplane) | Drive to Newberg |
 | 8p | Pick up Norbert<br /> 📍*1116 N College St* |
 
+<div style="display: flex; gap: 2em; align-items: flex-start;">
+<div style="flex: 1;">
+
+* [ ] Boarding Pass
+* [ ] Passports
+* [ ] Venture card
+* [ ] Driver's License
+* [ ] Emerald Club Confirmation 
+
+</div>
+<div style="flex: 1;">
+
 * [ ] Phone Charger
 * [ ] Power Bank
 * [ ] Computer
 * [ ] Sun Glasses
 * [ ] Water Bottle
+
+</div>
+</div>
+
+  
